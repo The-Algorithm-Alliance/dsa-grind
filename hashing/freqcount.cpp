@@ -1,3 +1,5 @@
+//count the number of occurences of array elements using an unordered_map. 
+
 #include <iostream>
 #include <unordered_map>
 //#include <bits/stdc++.h> can be used as well but it runs a large overhead.
